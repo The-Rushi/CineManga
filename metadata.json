@@ -1,0 +1,8 @@
+{
+  "name": "CineManga 1",
+  "description": "A cinematic reader that transforms static manga panels into an immersive, audio-driven experience with AI-powered voices, sound effects, and atmospheric pacing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
